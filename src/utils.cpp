@@ -6,4 +6,7 @@ int add(int a, int b) {
 int subtract(int a, int b) {
     return a - b;
 }
-
+// Function multiply for multiplying two numbers
+int multiply(int a, int b) {
+    return a * b;
+}
